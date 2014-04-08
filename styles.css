@@ -1,12 +1,21 @@
-div {
+/*div {
 	outline: 1px solid #aaa;
-}
+}*/
+
 .row {
-	margin-top: 4px;
-}
-.botspace {
-	margin-bottom: 4px;
+	margin-bottom: 20px;
 }
 .navbar-default .navbar-brand {
 	color: #000;
+	font-style: italic;
+	font-size: 24px;
 }
+
+/*
+@media only screen
+and (max-width: 500px) {
+	body {
+		background-color: red;
+	}
+}
+*/
