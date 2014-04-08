@@ -1,9 +1,12 @@
-/*div {
+div {
 	outline: 1px solid #aaa;
-}*/
+}
 .row {
 	margin-top: 4px;
-  }
+}
 .botspace {
-	margin-bottom: 30px;
+	margin-bottom: 4px;
+}
+.navbar-default .navbar-brand {
+	color: #000;
 }
