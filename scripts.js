@@ -19,7 +19,7 @@ function modals() {
 
 function closeVideo() {
 	$('.close-window').on("click", function() {
-		$('.modal-body').html();
+		$('.modal-body').html("&nbsp;");
 	});
 }
 
